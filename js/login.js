@@ -14,7 +14,7 @@ $(document).ready(getWonnovaScript = function () {
             //onLogin: function(userData){},
             onLogout: function(){},
             onUserChecked: function(userData){},
-            redirectUrl: "http://local.website.com/second.php",
+            redirectUrl: "second.php",
             providers : ['facebook', 'twitter', 'linkedin'],
             showLogout : true,
             layout: "default",
