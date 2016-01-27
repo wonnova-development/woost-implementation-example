@@ -1,0 +1,6 @@
+{
+    "require": {
+        "wonnova/woost-gamification-php-sdk": "^0.2.0",
+        "guzzlehttp/guzzle": "~5.0"
+    }
+}

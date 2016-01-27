@@ -1,0 +1,21 @@
+.margen{
+	margin-top: 20px;
+}
+
+.boton{
+	width: 100px;
+}
+
+.notificaciones{
+	height: 20px;
+}
+
+#listaU{
+	height: 500px;
+	overflow: scroll;
+	border: 2px black solid;
+}
+
+.titles{
+	font-size: xx-large;
+}
